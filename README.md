@@ -21,7 +21,7 @@
   - [(Tool Guide) Setup Postfix Mail Transfer Agent](https://github.com/MichaelSharifIT/Mail-Transfer-Agent)
   - [Provision & Setup Security Onion](https://github.com/MichaelSharifIT/Provision-Security-Onion)
   - [Security Server - Provision & Setup Ubuntu Desktop 22.04](https://github.com/MichaelSharifIT/Security-Server)
-  - [(Tool Guide) Setup Wazuh](https://github.com/MichaelSharifIT/Setup-Waszuh))
+  - [(Tool Guide) Setup Wazuh](https://github.com/MichaelSharifIT/Setup-Waszuh)
   - [Configure a Vulnerable Environment](https://github.com/MichaelSharifIT/Setup-Vulnerable-Environment)
   - [Setup The Attacker Machine]
   - [ Cyber Attack - Initial Access To Breached]
