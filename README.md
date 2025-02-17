@@ -9,6 +9,23 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MichaelSharifIT/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MichaelSharifIT/azure-network-protocols)
+ 
+<h2>Cybersecurity Projects</h2>
+
+- <b>CyberSecurity Homelab</b>
+  - [Provison VM on VirtualBox](https://github.com/MichaelSharifIT/VirtualBox)
+  - [Build a Directory Service Server with Active Directory](https://github.com/MichaelSharifIT/Build-Directory-Service-with-AD)
+  - [Provision Windows 11 Enterprise](https://github.com/MichaelSharifIT/Provision-Windows-11-Enterprise)
+  - [Provision & Setup Ubuntu Desktop 22.04](https://github.com/MichaelSharifIT/Provision-Unbuntu-Desktop)
+  - [Provision & Setup Ubuntu Server 22.04](https://github.com/MichaelSharifIT/Provision-Unbuntu-Server)
+  - [(Tool Guide) Setup Postfix Mail Transfer Agent](https://github.com/MichaelSharifIT/Mail-Transfer-Agent)
+  - [Provision & Setup Security Onion](https://github.com/MichaelSharifIT/Provision-Security-Onion)
+  - [Security Server - Provision & Setup Ubuntu Desktop 22.04](https://github.com/MichaelSharifIT/Security-Server)
+  - [(Tool Guide) Setup Wazuh](https://github.com/MichaelSharifIT/Setup-Waszuh))
+  - [Configure a Vulnerable Environment](https://github.com/MichaelSharifIT/Setup-Vulnerable-Environment)
+  - [Setup The Attacker Machine]
+  - [ Cyber Attack - Initial Access To Breached]
+
 
 <h2>🤳Connect with me:</h2>
 
