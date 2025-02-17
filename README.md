@@ -23,8 +23,8 @@
   - [Security Server - Provision & Setup Ubuntu Desktop 22.04](https://github.com/MichaelSharifIT/Security-Server)
   - [(Tool Guide) Setup Wazuh](https://github.com/MichaelSharifIT/Setup-Waszuh)
   - [Configure a Vulnerable Environment](https://github.com/MichaelSharifIT/Setup-Vulnerable-Environment)
-  - [Setup The Attacker Machine]
-  - [ Cyber Attack - Initial Access To Breached]
+  - [Setup The Attacker Machine](https://github.com/MichaelSharifIT/Setup-Attack-Machine)
+  - [ Cyber Attack - Initial Access To Breached](https://github.com/MichaelSharifIT/Initial-Access---Breached)
 
 
 <h2>🤳Connect with me:</h2>
